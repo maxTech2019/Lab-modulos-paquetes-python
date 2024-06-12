@@ -1,0 +1,11 @@
+# Archivos de Python
+*.pyc
+__pycache__/
+
+# Carpeta de archivos generados
+__pycache__/
+*.pyc
+
+# Archivos de caché de IDE
+.idea/
+.vscode/
